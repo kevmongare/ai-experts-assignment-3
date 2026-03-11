@@ -34,8 +34,3 @@ docker run --rm ai-assignment
 ## Submission
 
 Submit a public GitHub repository URL containing your solution via the provided Google Form.
-```
-
-4. Commit message:
-```
-Update README with local and Docker test instructions
